@@ -2533,7 +2533,7 @@ code.inline {
 }
 
 .scroller__99e7c {
-  margin-bottom: calc(var(--custom-app-panels-height, 0) + 20px - 16px) !important;
+  margin-bottom: calc(var(--custom-app-panels-height, 0) + var(--space-xs) - 2px) !important;
 }
 
 .fade_faf9c0.didRender_faf9c0 .picker__09f65 .wrapper__4106a {
