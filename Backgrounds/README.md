@@ -13,9 +13,9 @@
    
 4. On line 21 replace the var ``var(--opera-gx-bg-1)`` in line 21 with the image you want.
 
-   * > Example ``url(https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/main/Backgrounds/01.jpg)`` or ``url(https://....)``
+   * > Example ``url(https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/main/Backgrounds/01.jpg)`` or ``url(https://....)``
      * > Instead of it looking like ``--background: var(--opera-gx-bg-1)`` 
-       * > It should look like ``--background: url(https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/main/Backgrounds/01.jpg)`` or ``url(https://....)``
+       * > It should look like ``--background: url(https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/main/Backgrounds/01.jpg)`` or ``url(https://....)``
 
 5. Save the file.
 

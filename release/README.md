@@ -5,7 +5,7 @@
 OperaGXTheme is a highly customizable theme built trying to mimic the look of OperaGX
 
 
->This theme is being actively maintained by [him](https://github.com/L-Ratio)
+>This theme is being actively maintained by [him](https://github.com/HawkRatio)
 >> This theme was orginally created by Discord Addons
 
 ## Table of Contents
@@ -31,7 +31,7 @@ OperaGXTheme is a highly customizable theme built trying to mimic the look of Op
   <summary>Better Discord</summary>
 
    ### Installing
-1. Download the [theme](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/main/release/OperaGX.theme.css)
+1. Download the [theme](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/main/release/OperaGX.theme.css)
    - Extract the `theme.css` to your BD theme folder
      -  Enable it in settings
 ### Customization
@@ -47,9 +47,9 @@ OperaGXTheme is a highly customizable theme built trying to mimic the look of Op
 ## Previews
 
    images are currently (from 9/1/2026) out of date, they will be updated sometime
-![image](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated2.png)
-![image](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated3.png)
-![image](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated1.png)
+![image](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated2.png)
+![image](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated3.png)
+![image](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated1.png)
 
 ## Customizing Theme
 
@@ -59,7 +59,7 @@ OperaGXTheme is a highly customizable theme built trying to mimic the look of Op
 
  For all bugs and/or issues please make a issue request. Same goes for suggestions as well
 
- You can make those [here](https://github.com/L-Ratio/OperaGXTheme/issues) or in the [Support Server](https://discord.gg/Xn7UUQUHbN)
+ You can make those [here](https://github.com/HawkRatio/OperaGXTheme/issues) or in the [Support Server](https://discord.gg/Xn7UUQUHbN)
 
 ## Contributing
 

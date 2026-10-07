@@ -5,7 +5,7 @@
 OperaGXTheme is a highly customizable theme built off of trying to look like OperaGX
 
 
->This theme is being actively maintained by [him](https://github.com/L-Ratio)
+>This theme is being actively maintained by [him](https://github.com/HawkRatio)
 >> This theme was orginally created by Discord Addons
 
 ## Table of Contents
@@ -34,7 +34,7 @@ OperaGXTheme is a highly customizable theme built off of trying to look like Ope
   <summary>Better Discord</summary>
 
    ### Installing
-1. Download the [theme](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/main/release/OperaGX.theme.css)
+1. Download the [theme](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/main/release/OperaGX.theme.css)
    - Extract the `theme.css` to your BD theme folder
      -  Enable it in settings
 ### Customization
@@ -56,10 +56,10 @@ OperaGXTheme is a highly customizable theme built off of trying to look like Ope
    
    ### Installing
 0. You can also follow the instructions for BetterDiscord, if you wish to not do it this way.
-1. Copy `https://l-ratio.github.io/OperaGXTheme/release/OperaGX.theme.css`
+1. Copy `https://HawkRatio.github.io/OperaGXTheme/release/OperaGX.theme.css`
    - Paste it in themes
   ### Customization
-1. Copy everything in `https://l-ratio.github.io/OperaGXTheme/release/OperaGX.theme.css`
+1. Copy everything in `https://HawkRatio.github.io/OperaGXTheme/release/OperaGX.theme.css`
    - Open Vencord settings
      - Click `Open QuickCSS File`
        - Paste everything in the window
@@ -70,9 +70,9 @@ OperaGXTheme is a highly customizable theme built off of trying to look like Ope
 ## Previews
 
    images are currently (from 9/1/2026) out of date, they will be updated sometime
-![image](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated2.png)
-![image](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated3.png)
-![image](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated1.png)
+![image](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated2.png)
+![image](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated3.png)
+![image](https://raw.githubusercontent.com/HawkRatio/OperaGXTheme/refs/heads/main/Backgrounds/discordPreviewUpdated1.png)
 
 ## Customizing Theme
 
@@ -82,7 +82,7 @@ OperaGXTheme is a highly customizable theme built off of trying to look like Ope
 
  For all bugs and/or issues please make a issue request. Same goes for suggestions as well
 
- You can make those [here](https://github.com/L-Ratio/OperaGXTheme/issues) or in the [Support Server](https://discord.gg/Xn7UUQUHbN)
+ You can make those [here](https://github.com/HawkRatio/OperaGXTheme/issues) or in the [Support Server](https://discord.gg/Xn7UUQUHbN)
 
 ## Contributing
 
